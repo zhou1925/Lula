@@ -29,29 +29,32 @@
   - [DESIGN TOOL](#design-tool)
   - [METHODOLOGY](#methodology)
   - [Thrid party Services and tools](#thrid-party-services-and-tools)
+  - [Bussiness Garden](#bussiness-garden)
 
 ---
 
 # SUMMARY
-Lula es un tienda de plantas que ofrece varios tipos de plantas.
-Lula es una aplicacion para que sus clientes puedan ver todas sus plantas desde la comodidad de su celular y no ir directamente a la tienda.
+Lula is a plant store that offers various types of plants.
+Lula is an application so that your customers can see all their plants from the comfort of their cell phone and not go directly to the store.
 
-Tuve la oportunidad de ir a su vivero y conocer mas de cerca su negocio.
+I had the opportunity to go to their nursery and learn more about their business.
+|   |    |    |
+|--------------|----------------|------------|
+|![plant](doc_files/business/plant_1.jpg) | ![plant_2](doc_files/business/plant_2.jpg)|![plant_3](doc_files/business/plant_3.jpg) |
 
-Me puse manos a la obra y me gusto el resultado y tambien a mi cliente.
+I got down to work and I liked the result and so did my client.
 
-Al finalizar todo mi cliente estuvo feliz.
+At the end of everything my client was happy.
 
 # BUSINESS
 ## what is it
-Lula es una tienda de plantas y la app tiene el mismo nombre.
+Lula is a plant store and the app has the same name.
 ## Problem
-La tienda no esta bien organizada y los clientes solo llegan a ver las plantas principales y no ven todos sus productos por falta de tiempo o desinteres.
+The store is not well organized and customers only get to see the main floors and do not see all their products due to lack of time or lack of interest.
 ## what needs?
-Le ofreci una app para una mejor accesibilidad a todos sus productos asi puede ordenar todos sus productos que pertenecen a una cierta categoria.
-Ambos estuvimos de acuerdo con la propuesta.
-
-Vamos a ensuciarnos las manos! 
+I offered you an app for better accessibility to all your products so you can sort all your products that belong to a certain category.
+We both agreed to the proposal.
+Let's get our hands dirty!
 ![garden](doc_files/business/garden.png)
 
 
@@ -153,3 +156,4 @@ Vamos a ensuciarnos las manos!
 - [ibb.co](ibb.co) (free hosting of images)
 - Postman (test api endpoints)
 
+## Bussiness Garden
