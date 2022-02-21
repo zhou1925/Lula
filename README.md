@@ -29,7 +29,6 @@
   - [DESIGN TOOL](#design-tool)
   - [METHODOLOGY](#methodology)
   - [Thrid party Services and tools](#thrid-party-services-and-tools)
-  - [Bussiness Garden](#bussiness-garden)
 
 ---
 
@@ -55,6 +54,7 @@ The store is not well organized and customers only get to see the main floors an
 I offered you an app for better accessibility to all your products so you can sort all your products that belong to a certain category.
 We both agreed to the proposal.
 Let's get our hands dirty!
+
 ![garden](doc_files/business/garden.png)
 
 
@@ -62,6 +62,7 @@ Let's get our hands dirty!
 - Administrator - Owner(manage the store and nursery garden)
 - Employee (physical store manager)
 - motorized (plant deliverer)
+  
 ![organization_map](doc_files/business/organization.png)
 
   
@@ -155,5 +156,3 @@ Let's get our hands dirty!
 ## Thrid party Services and tools
 - [ibb.co](ibb.co) (free hosting of images)
 - Postman (test api endpoints)
-
-## Bussiness Garden
